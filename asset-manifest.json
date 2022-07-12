@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pse/static/css/main.fe268fa0.css",
+    "main.js": "/pse/static/js/main.fee4fa49.js",
+    "static/media/user_intent.png": "/pse/static/media/user_intent.62def6470f54662e63c3.png",
+    "static/media/chess.png": "/pse/static/media/chess.06e477261ba6a05a7fbf.png",
+    "static/media/rubik.png": "/pse/static/media/rubik.277f2b42285fd34789bf.png",
+    "static/media/pse.png": "/pse/static/media/pse.ccc6deba52a59c59f870.png",
+    "static/media/cime.png": "/pse/static/media/cime.9767fdcf80c68ea36698.png",
+    "static/media/gapminder.png": "/pse/static/media/gapminder.f41c4b2c476632cec1f0.png",
+    "static/media/go.png": "/pse/static/media/go.c764a57d61cf2461acfb.png",
+    "static/media/screenshot.png": "/pse/static/media/screenshot.690e952f33fd6e9b0c2d.png",
+    "static/media/cancer.png": "/pse/static/media/cancer.35a706af53ca0135199a.png",
+    "static/media/provectories.png": "/pse/static/media/provectories.25e5f4c3fee6806f9939.png",
+    "static/media/nn.png": "/pse/static/media/nn.8a0167957a4cebc75195.png",
+    "static/media/multilevel.png": "/pse/static/media/multilevel.4b95988c962834c4c6da.png",
+    "static/media/timecurves.png": "/pse/static/media/timecurves.ea7c723d2a1c0aa51a91.png",
+    "static/media/JKU-Logo.jpg": "/pse/static/media/JKU-Logo.091d184ac04fd3a930d5.jpg",
+    "static/media/logo.svg": "/pse/static/media/logo.324ae0dfa866332e4ea3e5a7a3e16a03.svg",
+    "static/media/datavisyn_logo.svg": "/pse/static/media/datavisyn_logo.a4a0ece425e6d9a7fd641d7779509027.svg",
+    "static/media/cg_logo.webp": "/pse/static/media/cg_logo.a83a82b7d3f3ccc6a46a.webp",
+    "static/media/pse-icon-project-notext.svg": "/pse/static/media/pse-icon-project-notext.e68f7e5e1778971708dcd5b7afe1be86.svg",
+    "static/media/pse-icon-dataset-notext.svg": "/pse/static/media/pse-icon-dataset-notext.e378af94b5c312a69623187ca5b4b5f3.svg",
+    "static/media/pse-icon-details-notext.svg": "/pse/static/media/pse-icon-details-notext.184d770e51c84b175111ed3ff727fe44.svg",
+    "index.html": "/pse/index.html",
+    "main.fe268fa0.css.map": "/pse/static/css/main.fe268fa0.css.map",
+    "main.fee4fa49.js.map": "/pse/static/js/main.fee4fa49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe268fa0.css",
+    "static/js/main.fee4fa49.js"
+  ]
+}
